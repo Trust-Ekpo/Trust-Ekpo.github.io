@@ -1,0 +1,215 @@
+*{
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 0%;
+}
+body{
+    width: 100%;
+    height: 100%;
+
+}
+.ht h2{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.collapse {
+
+    padding-left: 500px;
+}
+.bd-example img{
+    width: 100%;
+    height:700px;
+}
+.explore h4{
+    padding-left: 200px;
+    padding-top: 200px;
+    padding-bottom: 20px;
+}
+.main{
+    display: flex;
+    padding-left: 100px;
+    padding-top: 50px;
+    width: 100%;
+
+}
+.filter{
+    float: left;
+}
+.items{
+    float: left;
+}
+.form-row input{
+    width: 100px;
+}
+.input-group{
+    width: 100px;
+}
+.main1{
+    height: 100%;
+    width: 100%;
+}
+.main2{
+    float: left;
+    padding-left: 50px;
+    width: 100%;
+}
+.product{
+
+    float: left;
+}
+.row1{
+    display: flex;
+}
+.stars{
+    text-align: center;
+    margin-bottom: 13px;
+    color: blue;
+}
+.pa{
+    width: 300px;
+    height: 300px;
+}
+.product p{
+    font-size: 14px;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 1.5em;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.product h4{
+    font-weight: 600;
+    font-size: 1em;
+    text-align: center;
+}
+.product h4 span{
+    text-decoration: line-through;
+    font-weight: 300;
+    padding-left: 1em;
+}
+.product input{
+    background-color: cornflowerblue;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 0;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-left: 95px;
+    padding: .5em;
+}
+.product input:hover{
+    background: sandybrown;
+}
+.product2{
+    float: left;
+    padding-left: 150px;
+}
+.product2 p{
+    font-size: 14px;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 1.5em;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.product2 h4{
+    font-weight: 600;
+    font-size: 1em;
+    text-align: center;
+}
+.product2 h4 span{
+    text-decoration: line-through;
+    font-weight: 300;
+    padding-left: 1em;
+}
+.product2 input{
+    background-color: cornflowerblue;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 0;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-left: 95px;
+    padding: .5em;
+}
+.product2 input:hover {
+    background: sandybrown;
+}
+.product3{
+    float: left;
+    padding-left: 150px;
+}
+.product3 p{
+    font-size: 14px;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 1.5em;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.product3 h4{
+    font-weight: 600;
+    font-size: 1em;
+    text-align: center;
+}
+.product3 h4 span{
+    text-decoration: line-through;
+    font-weight: 300;
+    padding-left: 1em;
+}
+.product3 input{
+    background-color: cornflowerblue;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 0;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-left: 95px;
+    padding: .5em;
+}
+.product3 input:hover {
+    background: sandybrown;
+}
+.product4{
+    float: left;
+    padding-left: 30px;
+}
+.product4 p{
+    font-size: 14px;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 1.5em;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.product4 h4{
+    font-weight: 600;
+    font-size: 1em;
+    text-align: center;
+}
+.product4 h4 span{
+    text-decoration: line-through;
+    font-weight: 300;
+    padding-left: 1em;
+}
+.product4 input{
+    background-color: cornflowerblue;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 0;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-left: 95px;
+    padding: .5em;
+}
+.product4 input:hover{
+    background: sandybrown;
+}
+.row2{
+    padding-top: 100px;
+}
