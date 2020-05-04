@@ -1,2 +1,2 @@
 # Trust-Ekpo.github.io
-A simple e-commerce site created while learing HTML & CSS & JAVASCRIPT
+A simple e-commerce site created while learning HTML & CSS & JAVASCRIPT
